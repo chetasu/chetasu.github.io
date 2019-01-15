@@ -9,11 +9,9 @@ hidden: false
 comments: false
 ---
 
-
-<blockquote class="twitter-tweet  tw-align-center" data-lang="en">
-<p lang="en" dir="ltr">Still can&#39;t believe the Golden Egg became the most-liked photo on Instagram <a href="https://t.co/KpHEzVTrBK">pic.twitter.com/KpHEzVTrBK</a></p>&mdash; Professor Snape (@_Snape_) 
-<a href="https://twitter.com/_Snape_/status/1085248812795547649?ref_src=twsrc%5Etfw">January 15, 2019</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">This will never stop being hysterical <a href="https://t.co/MiJe9HA44z">https://t.co/MiJe9HA44z</a></p>&mdash; Myke Cole (@MykeCole) <a href="https://twitter.com/MykeCole/status/1075748028928221184?ref_src=twsrc%5Etfw">December 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 

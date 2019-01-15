@@ -1,3 +1,8 @@
+.box {
+    display: flex;
+    align-items:center;
+}
+
 .dropdown1 {
     position: relative;
     display: inline-block;
@@ -16,7 +21,6 @@
 .dropdown1:hover .dropdown1-content {
     display: block;
 }
-
 
 /*
 Template Name: Mediumish 
@@ -60,7 +64,7 @@ License: https://www.wowthemes.net/freebies-license/
  .site-content {
      min-height: 60vh;
      padding-top: 1.5rem;
-     margin-top: 57px;
+     margin-top: 80px;
      transition: all 0.4s;
 }
  section {
@@ -241,7 +245,7 @@ License: https://www.wowthemes.net/freebies-license/
      cursor:pointer;
 }
  .mediumnavigation .navbar-brand img {
-     max-height:30px;
+     max-height:60px;
      margin-right:5px;
 }
  .mainheading h1.sitetitle {
