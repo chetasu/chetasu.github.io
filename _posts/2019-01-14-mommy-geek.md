@@ -10,7 +10,9 @@ comments: true
 ---
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Still can&#39;t believe the Golden Egg became the most-liked photo on Instagram <a href="https://t.co/KpHEzVTrBK">pic.twitter.com/KpHEzVTrBK</a></p>&mdash; Professor Snape (@_Snape_) <a href="https://twitter.com/_Snape_/status/1085248812795547649?ref_src=twsrc%5Etfw">January 15, 2019</a></blockquote>
+<blockquote class="twitter-tweet  tw-align-center" data-lang="en">
+<p lang="en" dir="ltr">Still can&#39;t believe the Golden Egg became the most-liked photo on Instagram <a href="https://t.co/KpHEzVTrBK">pic.twitter.com/KpHEzVTrBK</a></p>&mdash; Professor Snape (@_Snape_) 
+<a href="https://twitter.com/_Snape_/status/1085248812795547649?ref_src=twsrc%5Etfw">January 15, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
