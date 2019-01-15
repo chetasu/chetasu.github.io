@@ -1,30 +1,30 @@
 # Site
-name: "Jerhemy Waldon"
-author: 'Jerhemy Waldon'
-description: "Developer Blog"
+name: "The Mommy Geek"
+author: 'Susana Orozco'
+description: "The Mommy Geek"
 meta_description:
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-62760424-2'
-disqus: jerhemy-waldon
+google_analytics: 
+disqus: 
 
 # Site Links
 facebook:
-github: jswaldon
-linkedin: jerhemy-waldon
-twitter: officeinsanity
-stackoverflow: 7675387
+github: 
+linkedin:
+twitter: themommygeek
+stackoverflow:
 
 # Authors
 authors:
-  jerhemy:
-    name: Jerhemy Waldon
-    display_name: Jerhemy
+  susana:
+    name: Susana Orozco
+    display_name: Susana
     gravatar:
-    email: jswaldon@gmail.com
-    web: https://www.jerhemy.com
-    twitter: https://twitter.com/officeinsanity
+    email: susa.1582@gmail.com
+    web: https://www.themommygeek.com
+    twitter: https://twitter.com/themommygeek
     description: ""
 
 # Plugins
