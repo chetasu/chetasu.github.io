@@ -1,0 +1,16 @@
+---
+layout: default
+title: Home
+---
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+    <div class="row listrecent">
+        {% for post in site.posts %}
+               {% include postlist.html %}
+        {% endfor %}
+    </div>
+</section>
+
+

@@ -1,0 +1,48 @@
+# Site
+name: "Jerhemy Waldon"
+author: 'Jerhemy Waldon'
+description: "Developer Blog"
+meta_description:
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+google_analytics: 'UA-62760424-2'
+disqus: jerhemy-waldon
+
+# Site Links
+facebook:
+github: jswaldon
+linkedin: jerhemy-waldon
+twitter: officeinsanity
+stackoverflow: 7675387
+
+# Authors
+authors:
+  jerhemy:
+    name: Jerhemy Waldon
+    display_name: Jerhemy
+    gravatar:
+    email: jswaldon@gmail.com
+    web: https://www.jerhemy.com
+    twitter: https://twitter.com/officeinsanity
+    description: ""
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
