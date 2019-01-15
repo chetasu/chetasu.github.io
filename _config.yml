@@ -2,7 +2,7 @@
 name: "The Mommy Geek"
 author: 'Susana Orozco'
 description: "The Mommy Geek"
-meta_description:
+meta_description: "blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
