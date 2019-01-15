@@ -18,10 +18,10 @@ stackoverflow:
 # Authors
 authors:
   susana:
-    name: Susana Orozco
+    name: Susana
     display_name: Susana
     gravatar:
-    email: susa.1582@gmail.com
+    email:
     web: https://www.themommygeek.com
     twitter: https://twitter.com/themommygeek
     description: ""
@@ -45,5 +45,3 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
-
-theme: jekyll-theme-cayman

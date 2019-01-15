@@ -6,7 +6,7 @@ categories: [ mommy-shit]
 image: assets/images/unity3d.jpg
 featured: false
 hidden: false
-comments: true
+comments: false
 ---
 
 
