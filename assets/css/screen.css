@@ -679,5 +679,17 @@ License: https://www.wowthemes.net/freebies-license/
  display: block;
  margin-left: auto;
  margin-right: auto;
- width: 50%;
+ /*width: 50%;*/
+}
+
+@media (max-width: 420px) {
+    .title-img {
+        display: none;
+    }
+}
+
+@media (min-width: 421px) {
+    .title-img {
+        display: block;
+    }
 }
