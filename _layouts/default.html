@@ -76,25 +76,25 @@
                     <a class="nav-link" href="{{ site.baseurl }}/all-posts">All Posts</a>
                 </li>
 
-                <li class="nav-item cat-dropdown d-none d-lg-block">
-                    <a class="nav-link" href="#">Categories</a>
-                    <!--<button class="cat-dropdown-button">Categories</button>-->
-                    <div class="cat-dropdown-content">
-                        {% assign categories_list = site.categories %}
-                        {% if categories_list.first[0] == null %}
-                        {% for category in categories_list %}
-                            <a class="nav-link" href="{{ site.baseurl }}/category/{{ category | downcase | downcase | url_escape | strip | replace: '-', ' ' }}">{{ category | camelcase   | replace: '-', ' ' }} ({{ site.tags[category].size }})</a>
-                        {% endfor %}
-                        {% else %}
-                        {% for category in categories_list %}
-                        {% assign words = category[0] | replace: '-', ' ' | split: ' ' %}
-                        {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
-                            <a class="nav-link" href="{{ site.baseurl }}/category/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ titlecase }} ({{ category[1].size }})</a>
-                        {% endfor %}
-                        {% endif %}
-                        {% assign categories_list = nil %}
-                    </div>
-                </li>
+                <!--<li class="nav-item cat-dropdown d-none d-lg-block">-->
+                    <!--<a class="nav-link" href="#">Categories</a>-->
+                    <!--&lt;!&ndash;<button class="cat-dropdown-button">Categories</button>&ndash;&gt;-->
+                    <!--<div class="cat-dropdown-content">-->
+                        <!--{% assign categories_list = site.categories %}-->
+                        <!--{% if categories_list.first[0] == null %}-->
+                        <!--{% for category in categories_list %}-->
+                            <!--<a class="nav-link" href="{{ site.baseurl }}/category/{{ category | downcase | downcase | url_escape | strip | replace: '-', ' ' }}">{{ category | camelcase   | replace: '-', ' ' }} ({{ site.tags[category].size }})</a>-->
+                        <!--{% endfor %}-->
+                        <!--{% else %}-->
+                        <!--{% for category in categories_list %}-->
+                        <!--{% assign words = category[0] | replace: '-', ' ' | split: ' ' %}-->
+                        <!--{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}-->
+                            <!--<a class="nav-link" href="{{ site.baseurl }}/category/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ titlecase }} ({{ category[1].size }})</a>-->
+                        <!--{% endfor %}-->
+                        <!--{% endif %}-->
+                        <!--{% assign categories_list = nil %}-->
+                    <!--</div>-->
+                <!--</li>-->
 
                 <!--<h2>Categories</h2>-->
                 <!--<ul>-->
