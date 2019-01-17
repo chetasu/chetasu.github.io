@@ -33,7 +33,7 @@ plugins:
     
 # Archives
 jekyll-archives:
-  enabled: ['categories']
+  enabled: 'all'
   layouts: archive
   permalinks:
     category: '/category/:name/'
