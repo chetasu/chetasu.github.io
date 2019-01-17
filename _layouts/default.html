@@ -84,7 +84,7 @@
                         {% if categories_list.first[0] == null %}
                         {% for category in categories_list %}
 
-                            <a class="nav-link" href="{{ site.baseurl }}{{ category | downcase | downcase | url_escape | strip | replace: '-', ' ' }}">{{ category | camelcase   | replace: '-', ' ' }} ({{ site.tags[category].size }})</a>
+                            <a class="nav-link" href="{{ site.baseurl }}/category/{{ category | downcase | downcase | url_escape | strip | replace: '-', ' ' }}">{{ category | camelcase   | replace: '-', ' ' }} ({{ site.tags[category].size }})</a>
                         {% endfor %}
                         {% else %}
 
@@ -104,7 +104,7 @@
                 {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
                 <li class="nav-item d-lg-none d-block">
-                    <a class="nav-link" href="{{ site.baseurl }}{{ category | downcase | downcase | url_escape | strip | replace: '-', ' ' }}">{{ category | camelcase   | replace: '-', ' ' }} ({{ site.tags[category].size }})</a></li>
+                    <a class="nav-link" href="{{ site.baseurl }}/category/{{ category | downcase | downcase | url_escape | strip | replace: '-', ' ' }}">{{ category | camelcase | replace: '-', ' ' }} ({{ site.tags[category].size }})</a></li>
                 {% endfor %}
                 {% else %}
 
