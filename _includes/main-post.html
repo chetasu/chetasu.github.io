@@ -54,10 +54,10 @@
             {% assign author = site.authors[post.author] %}
             {% if post.author %}
             <div class="row post-top-meta">
-                <div class="col-md-2">
+                <div class="col-3 col-md-2">
                     <img class="author-thumb" src="https://avatars.io/twitter/{{site.twitter}}" alt="{{ author.display_name }}" />
                 </div>
-                <div class="col-md-10">
+                <div class="col-9 col-md-10">
                     <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
                     <span class="author-description">{{ author.description }}</span>
                 </div>
