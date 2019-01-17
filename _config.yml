@@ -1,6 +1,6 @@
 # Site
 name: "The Mommy Geek"
-author: 'Susana Orozco'
+author: 'The Mommy Geek'
 description: "The Mommy Geek"
 meta_description: "blog"
 logo: 'assets/images/logo.png'
@@ -12,19 +12,19 @@ disqus:
 # Site Links
 facebook:
 linkedin:
-twitter: mommygeek
+twitter: MommyGeek
 stackoverflow:
 
 # Authors
 authors:
   susana:
-    name: Susana
-    display_name: Susana
+    name: 'Susana'
+    display_name: 'Susana'
     gravatar:
     email:
     web: https://www.themommygeek.com
-    twitter: https://twitter.com/themommygeek
-    description: ""
+    twitter: https://twitter.com/MommyGeek
+    description: "Just another geek in a geeky world"
 
 # Plugins
 plugins: 

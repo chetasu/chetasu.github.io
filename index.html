@@ -24,12 +24,17 @@ title: Home
 <!--{% endif %}-->
 
 <!-- All Articles w/ Pagination -->
+
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+{% include main-post.html %}
+
 <section class="recent-posts">
     <!--<div class="section-title">-->
         <!--<h2><span>All Articles</span></h2>-->
     <!--</div>-->
     <div class="row listrecent">
-        {% for post in paginator.posts %}
+        {% for post in paginator.posts offset:1 %}
                {% include article.html %}
         {% endfor %}
     </div>
