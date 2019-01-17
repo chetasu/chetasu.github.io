@@ -68,12 +68,12 @@
                 <!--<a class="nav-link" href="{{ site.baseurl }}/about">About</a>-->
                 <!--</li>-->
 
-                {% if page.url == "/all.html" %}
+                {% if page.url == "/all-posts.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                    <a class="nav-link" href="{{ site.baseurl }}/all">All Posts</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/all-posts">All Posts</a>
                 </li>
 
                 <li class="nav-item cat-dropdown d-none d-lg-block">
@@ -83,11 +83,9 @@
                         {% assign categories_list = site.categories %}
                         {% if categories_list.first[0] == null %}
                         {% for category in categories_list %}
-
                             <a class="nav-link" href="{{ site.baseurl }}/category/{{ category | downcase | downcase | url_escape | strip | replace: '-', ' ' }}">{{ category | camelcase   | replace: '-', ' ' }} ({{ site.tags[category].size }})</a>
                         {% endfor %}
                         {% else %}
-
                         {% for category in categories_list %}
                         {% assign words = category[0] | replace: '-', ' ' | split: ' ' %}
                         {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
