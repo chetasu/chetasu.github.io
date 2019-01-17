@@ -35,7 +35,8 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
-  layout: archive
+  layout:
+    categories: archive
 
     
 # Pagination 
