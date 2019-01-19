@@ -3,7 +3,7 @@ layout: post
 title:  "How My Three-year Old Got Into Minecraft"
 author: susana
 categories: [parenting]
-image: assets/images/minecraft.jpg
+image: assets/images/minecraft.jpeg
 featured: false
 hidden: false
 comments: false
