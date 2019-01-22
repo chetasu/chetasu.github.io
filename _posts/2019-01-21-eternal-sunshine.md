@@ -31,4 +31,6 @@ But we also see Joel and Clementine's relationship begin to unravel. These are, 
 
 The day after Joel's mind wipe we see that they might be more than just two people who shared a relationship. Joel and Clementine meet again. They are attracted to each other and have a spark. They're about to start their love story all over again, with a clean slate. Who knows if they'll make the same mistakes and end up hating the same things about each other as they did the first time, but it's interesting that they love each other all over again. Eternal Sunshine wants us to believe that there are such people out there as soulmates and that, try as you might, "you can erase them from your mind, but getting them out of your heart is another story."
 
-<div style=“text-align: center”> <iframe width="560" height="315" src="https://www.youtube.com/embed/07-QBnEkgXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div style="text-align: center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/07-QBnEkgXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
