@@ -34,9 +34,15 @@ title: Home
         <!--<h2><span>All Articles</span></h2>-->
     <!--</div>-->
     <div class="row listrecent">
-        {% for post in paginator.posts offset:1 %}
-               {% include article.html %}
-        {% endfor %}
+        {% if page.url == "/" %}
+            {% for post in paginator.posts offset:1 %}
+                   {% include article.html %}
+            {% endfor %}
+        {% else %}
+            {% for post in paginator.posts %}
+            {% include article.html %}
+            {% endfor %}
+        {% endif %}
     </div>
 </section>
 
