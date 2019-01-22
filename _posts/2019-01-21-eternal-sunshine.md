@@ -14,8 +14,11 @@ Who hasn't wanted to erase the pain of heartbreak?
 In "Eternal Sunshine of the Spotless Mind," one of my favorite films of all time, Joel (Jim Carrey) goes to a company that specializes in erasing memories. He's just learned that his ex-girlfriend Clementine (Kate Winslet) has erased him, and their relationship, from her memory. What follows is a mosaic storytelling of what is happening in Joel's mind, in Joel's apartment, and the day after the procedure.
 
 >How happy is the blameless vestal's lot!
+>
 >The world forgetting, by the world forgot,
+>
 >Eternal sunshine of the spotless mind!
+>
 >Each prayer accepted, and each wish resign'd.
 
 It's such a heartbreaking film. Almost at the moment Joel starts the procedure, he regrets what he's doing. We see him running through his memories of Clementine, trying to save them. Trying to save her by hiding her in the inner recesses of his mind. Joel is no longer willing to lose these memories of love in exchange for a cure to his depression and anger. We see the day they met--a quiet man approached by an extroverted woman. They spend the day together. We see Joel go through more good memories of them together. Simple memories of them in bed and talking. Slowly they fall in love. How wonderful are those memories? A particular place or time or film can bring back warm memories of a person you've loved.
