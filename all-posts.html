@@ -42,9 +42,12 @@ title: Home
 </ul>
 {% endfor %}
 
+<br/>
+<hr/>
+<br/>
 <section class="recent-posts">
     <div class="row listrecent">
-        {% for post in site.posts limit:3 %}
+        {% for post in site.posts %}
                {% include postbox.html %}
         {% endfor %}
     </div>
