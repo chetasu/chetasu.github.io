@@ -24,7 +24,7 @@ It's such a heartbreaking film. Almost at the moment Joel starts the procedure, 
 
 But we also see Joel and Clementine's relationship begin to unravel. These are, after all, two very different people. The novelty wears off. Clementine wants to experience life while Joel is almost scared of life. We see it in Joel's memories but we also hear part of their testimony tapes. Are these two people meant to be together? Are they soulmates?
 
->"We met at the wrong time. That's what I kept telling myself anyway. Maybe one day, years from now, we'll meet in a coffee shop in a far away city somewhere and we could give it another shot. - Joel"
+>"We met at the wrong time. That's what I kept telling myself anyway. Maybe one day, years from now, we'll meet in a coffee shop in a far away city somewhere and we could give it another shot." - Joel
 
 The day after Joel's mind wipe we see that they might be more than just two people who shared a relationship. Joel and Clementine meet again. They are attracted to each other and have a spark. They're about to start their love story all over again, with a clean slate. Who knows if they'll make the same mistakes and end up hating the same things about each other as they did the first time, but it's interesting that they love each other all over again. Eternal Sunshine wants us to believe that there are such people out there as soulmates and that, try as you might, "you can erase them from your mind, but getting them out of your heart is another story."
 

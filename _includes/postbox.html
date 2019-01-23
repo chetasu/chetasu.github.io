@@ -11,8 +11,21 @@
         <div class="card-body">
             <h2 class="card-title"><a class="text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+
         </div>
         <div class="card-footer bg-white">
+            <!-- Post Categories -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    {% assign sortedCategories = post.categories | sort %}
+                    {% for category in sortedCategories %}
+                    <li>
+                        <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <!-- End Categories -->
             <div class="wrapfooter">
                 {% if post.author %}
                 <span class="meta-footer-thumb">
