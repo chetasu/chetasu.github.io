@@ -22,12 +22,12 @@ At the time of this post, I've started-but-yet-to-complete:
 
 * Mass Effect Trilogy - This is pretty much the reason we still have a PS3
 * Tomb Raider - I got through about 50% 
-* Batman: Arkham Aylum 
+* Batman: Arkham Asylum 
 * The Last of Us - I've started this game twice and can't get going
 * Batman: Arkham City
 * Assassin's Creed: Odyssey - currently playing this
 * Kingdom Hearts III - Just started today
 
-On top of these games, I've also extensively played Elder Scrolls Online, but I'm nowhere near the character level my husband is at. But this is where I have to reitorate how much I just love to play. Elder Scrolls is such a beautiful game that when I do have time, I just like to go around the world and see everything there is to see. The same for Assassin's Creed. Sure, there's a main quest and hundreds of side quests...but have you seen the DETAILS in this game? There are other games that I just love to start over again each time. There was a time where I was wickedly addicted to "Don't Starve" where the main gist of the game is to stay alive by basically camping. But every time you start the game, it's a different world set up. So I start my campo all over again, and it's just as fun as the game the first time. Sometimes, you just want to sit down on your butt and turn off the outside world and play and relax.
+On top of these games, I've also extensively played Elder Scrolls Online, but I'm nowhere near the character level my husband is at. But this is where I have to reiterate how much I just love to play. Elder Scrolls is such a beautiful game that when I do have time, I just like to go around the world and see everything there is to see. The same for Assassin's Creed. Sure, there's a main quest and hundreds of side quests...but have you seen the DETAILS in this game? There are other games that I just love to start over again each time. There was a time where I was wickedly addicted to "Don't Starve" where the main gist of the game is to stay alive by basically camping. But every time you start the game, it's a different world set up. So I start my camp all over again, and it's just as fun as the game the first time. Sometimes, you just want to sit down on your butt and turn off the outside world and play and relax.
 
 Will I finish any games this year? Probably not, but I'll enjoy taking a breather from real life and fighting villains, saving the world, building a camp, or hanging out with Disney characters. Or being Batman.
